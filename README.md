@@ -1,4 +1,4 @@
-# Build lineage 15.1 for mt6580 watches
+# Build 8.1 for mt6580 watches
 
 ## Local manifest
 ```xml
@@ -25,3 +25,7 @@ https://review.lineageos.org/#/c/220286 # Disable dashboard icons and summaries
 https://review.lineageos.org/#/c/220287 # Change dashboard tile layout
 
 https://review.lineageos.org/#/c/220288 # zygote whitelist
+
+If building Lineage-15.1 here is a repo pick command to grab all of these
+
+repopick 220036 219443 220034 220285 220286 220287 220288
