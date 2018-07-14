@@ -17,3 +17,11 @@ https://review.lineageos.org/#/c/220036 # fw/av mtk
 https://review.lineageos.org/#/c/219443 # earlysuspend
 
 https://review.lineageos.org/#/c/220034 # mtk flag
+
+https://review.lineageos.org/#/c/220285 # Disable fixed size
+
+https://review.lineageos.org/#/c/220286 # Disable dashboard icons and summaries
+
+https://review.lineageos.org/#/c/220287 # Change dashboard tile layout
+
+https://review.lineageos.org/#/c/220288 # zygote whitelist
