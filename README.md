@@ -1,4 +1,17 @@
-# Build 8.1 for mt6580 watches
+# Build android 8.1 for Harmony (Various mt6580 smartwatches)
+
+Kingwear makes a reference board that they use in their own products and has sold it to multiple diffrent manufacturers
+
+List of confirmed working devices (Probably more out there):
+* Lemfo LES1
+* Kingwear KW88
+* Kingwear KW98
+* Kingwear KW99
+* Finow X5 Plus
+* Diggro DIO1
+* IQ I2
+* Blocks Watch
+* Look Watch
 
 ## Local manifest
 ```xml
