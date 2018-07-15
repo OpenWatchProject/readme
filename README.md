@@ -4,10 +4,9 @@
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="openwatchproject/android_device_mediatek_8gb" path="device/mediatek/8gb" remote="github" revision="android-8.1" />
-  <project name="openwatchproject/android_device_mediatek_mt6580-common" path="device/mediatek/mt6580-common" remote="github" revision="android-8.1" />
-  <project name="openwatchproject/android_kernel_mediatek_mt6580" path="kernel/mediatek/mt6580" remote="github" revision="lineage-15.1" />
-  <project name="openwatchproject/android_vendor_mediatek_mt6580-common" path="vendor/mediatek/mt6580-common" remote="github" revision="android-8.0" />
+  <project name="openwatchproject/android_device_mediatek_harmony" path="device/mediatek/harmony" remote="github" revision="android-8.1" />
+  <project name="openwatchproject/android_kernel_mediatek_mt6580" path="kernel/mediatek/mt6580" remote="github" revision="android-8.1" />
+  <project name="openwatchproject/android_vendor_mediatek_harmony" path="vendor/mediatek/harmony" remote="github" revision="android-8.1" />
 </manifest>
 ```
 
@@ -26,6 +25,8 @@ https://review.lineageos.org/#/c/220287 # Change dashboard tile layout
 
 https://review.lineageos.org/#/c/220288 # zygote whitelist
 
+https://review.lineageos.org/#/c/220293 # Disable settings search bar
+
 If building Lineage-15.1 here is a repo pick command to grab all of these
 
-repopick 220036 219443 220034 220285 220286 220287 220288
+repopick 220036 219443 220034 220285 220286 220287 220288 220293
