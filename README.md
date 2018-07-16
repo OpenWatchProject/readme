@@ -3,15 +3,13 @@
 Kingwear makes a reference board that they use in their own products and has sold it to multiple diffrent manufacturers
 
 List of confirmed working devices (Probably more out there):
-* Lemfo LES1
-* Kingwear KW88
-* Kingwear KW98
-* Kingwear KW99
-* Finow X5 Plus
-* Diggro DIO1
-* IQ I2
+* Kingwear KW88, KW98, KW99
 * Blocks Watch
 * Look Watch
+* Zeblaze Thor, Thor S
+* Lemfo LES1
+* IQ I2
+* Diggro DI01, DI07
 
 ## Local manifest
 ```xml
@@ -40,6 +38,8 @@ https://review.lineageos.org/#/c/220288 # zygote whitelist
 
 https://review.lineageos.org/#/c/220293 # Disable settings search bar
 
+https://review.lineageos.org/#/c/220442 # Disable toolbar in settings
+
 If building Lineage-15.1 here is a repo pick command to grab all of these
 
-repopick 220036 219443 220034 220285 220286 220287 220288 220293
+repopick 220036 219443 220034 220285 220286 220287 220288 220293 220442
