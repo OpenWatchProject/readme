@@ -3,11 +3,9 @@ Project OpenWatch is the initiative undertaken by BLOCKS, who came into the lime
 
 Here is a link to see our current to-do, in progress, done list https://goo.gl/62UnLw
 
-# Build android 8.1 for Harmony (Various mt6580 smartwatches)
+# Build for Harmony (Various mt6580 smartwatches)
 
-Kingwear makes a reference board that they use in their own products and has sold it to multiple diffrent manufacturers
-
-List of confirmed working devices (Probably more out there):
+List of confirmed working devices under the harmony name (Probably more out there):
 * Kingwear KW88, KW98, KW99
 * Blocks Watch
 * Look Watch
@@ -16,35 +14,23 @@ List of confirmed working devices (Probably more out there):
 * IQ I2
 * Diggro DI01, DI07
 
-## Local manifest
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="openwatchproject/android_device_mediatek_harmony" path="device/mediatek/harmony" remote="github" revision="android-8.1" />
-  <project name="openwatchproject/android_kernel_mediatek_mt6580" path="kernel/mediatek/mt6580" remote="github" revision="android-8.1" />
-  <project name="openwatchproject/android_vendor_mediatek_harmony" path="vendor/mediatek/harmony" remote="github" revision="android-8.1" />
-</manifest>
-```
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/harmony/twrp.md)
 
-## Requried patch list
-https://review.lineageos.org/#/c/220036 # fw/av mtk
+[Build Android 8.1](https://github.com/OpenWatchProject/readme/blob/master/harmony/android-8.1.md)
 
-https://review.lineageos.org/#/c/219443 # earlysuspend
+# Build for InHarmony (mt6580 smartwatches that have an inverted screen)
 
-https://review.lineageos.org/#/c/220034 # mtk flag
+List of confirmed working devices under the harmony name (Probably more out there):
+* Diggro DI06
 
-https://review.lineageos.org/#/c/220285 # Disable fixed size
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/inharmony/twrp.md)
 
-https://review.lineageos.org/#/c/220286 # Disable dashboard icons and summaries
+# Build for LD_AUO (Lemfo Lem7)
 
-https://review.lineageos.org/#/c/220287 # Change dashboard tile layout
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/lemfo/twrp.md)
 
-https://review.lineageos.org/#/c/220288 # zygote whitelist
+[Build Android 7.1](https://github.com/OpenWatchProject/readme/blob/master/lemfo/android-7.1.md)
 
-https://review.lineageos.org/#/c/220293 # Disable settings search bar
+# Build for KY_AUO (Zeblaze Thor 4)
 
-https://review.lineageos.org/#/c/220442 # Disable toolbar in settings
-
-If building Lineage-15.1 here is a repo pick command to grab all of these
-
-repopick 220036 219443 220034 220285 220286 220287 220288 220293 220442
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/zeblaze/twrp.md)
