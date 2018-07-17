@@ -1,3 +1,8 @@
+# Information on the Open Watch Project
+Project OpenWatch is the initiative undertaken by BLOCKS, who came into the limelight for their modular smartwatch. The goal of this initiative is to make a fully open source OS so any smartwatch that can have AOSP builds or be ported to AOSP can have a fully functional Watch OS.
+
+Here is a link to see our current to-do, in progress, done list https://goo.gl/62UnLw
+
 # Build android 8.1 for Harmony (Various mt6580 smartwatches)
 
 Kingwear makes a reference board that they use in their own products and has sold it to multiple diffrent manufacturers
