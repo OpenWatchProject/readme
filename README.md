@@ -3,7 +3,7 @@ Project OpenWatch is the initiative undertaken by BLOCKS, who came into the lime
 
 Here is a link to see our current to-do, in progress, done list https://goo.gl/62UnLw
 
-# Build for Harmony (Various mt6580 smartwatches)
+# Build for Harmony
 
 List of confirmed working devices under the harmony name (Probably more out there):
 * Kingwear KW88, KW98, KW99
@@ -18,7 +18,7 @@ List of confirmed working devices under the harmony name (Probably more out ther
 
 [Build Android 8.1](https://github.com/OpenWatchProject/readme/blob/master/harmony/android-8.1.md)
 
-# Build for InHarmony (mt6580 smartwatches that have an inverted screen)
+# Build for InHarmony
 
 List of confirmed working devices under the harmony name (Probably more out there):
 * Diggro DI06
