@@ -20,7 +20,7 @@ List of confirmed working devices under the harmony name (Probably more out ther
 
 # Build for InHarmony
 
-List of confirmed working devices under the harmony name (Probably more out there):
+List of confirmed working devices under the inharmony name (Probably more out there):
 * Diggro DI06
 
 [Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/inharmony/twrp.md)
