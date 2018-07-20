@@ -29,4 +29,12 @@ https://review.lineageos.org/#/c/220293 # Disable settings search bar
 
 https://review.lineageos.org/#/c/220442 # Disable toolbar in settings
 
+https://review.lineageos.org/#/c/220506 # DNM: temp bt changes
+
+https://review.lineageos.org/#/c/220507 # Support IOS BLE pairing
+
+https://review.lineageos.org/#/c/220508 # Support IOS BLE pairing
+
+https://review.lineageos.org/#/c/220510 # DNM: support legacy mtk bt hals
+
 If building Lineage-15.1 here is a repo pick command to grab all of these
