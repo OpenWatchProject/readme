@@ -25,12 +25,12 @@ List of confirmed working devices under the inharmony name (Probably more out th
 
 [Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/inharmony/twrp.md)
 
-# Build for LD_AUO (Lemfo Lem7)
+# Build for Infinity
 
-[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/lemfo/twrp.md)
+List of confirmed working devices under the inharmony name (Probably more out there):
+* Lemfo Lem7
+* Zeblaze Thor 4
 
-[Build Android 7.1](https://github.com/OpenWatchProject/readme/blob/master/lemfo/android-7.1.md)
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/infinity/twrp.md)
 
-# Build for KY_AUO (Zeblaze Thor 4)
-
-[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/zeblaze/twrp.md)
+[Build Android 7.1](https://github.com/OpenWatchProject/readme/blob/master/infinity/android-7.1.md)
