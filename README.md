@@ -34,3 +34,10 @@ List of confirmed working devices under the inharmony name (Probably more out th
 [Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/infinity/twrp.md)
 
 [Build Android 7.1](https://github.com/OpenWatchProject/readme/blob/master/infinity/android-7.1.md)
+
+# Build for Unity
+
+List of confirmed working devices under the unity name (Probably more out there):
+* Kingwear KW06
+
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/unity/twrp.md)
