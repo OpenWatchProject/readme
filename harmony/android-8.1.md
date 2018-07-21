@@ -37,6 +37,8 @@ https://review.lineageos.org/#/c/220508 # Support IOS BLE pairing
 
 https://review.lineageos.org/#/c/220510 # DNM: support legacy mtk bt hals
 
+https://review.lineageos.org/#/c/220906 # DNM: Don't include the assistant global action
+
 If building Lineage-15.1 here is a repo pick command to grab all of these
 
-repopick 220036 219443 220034 220285 220286 220287 220288 220293 220442 220506 220507 220508 220510
+repopick 220036 219443 220034 220285 220286 220287 220288 220293 220442 220506 220507 220508 220510 220906
