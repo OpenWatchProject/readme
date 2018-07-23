@@ -27,7 +27,7 @@ List of confirmed working devices under the inharmony name (Probably more out th
 
 # Build for Infinity
 
-List of confirmed working devices under the inharmony name (Probably more out there):
+List of confirmed working devices under the infinity name (Probably more out there):
 * Lemfo Lem7
 * Zeblaze Thor 4
 
