@@ -19,10 +19,6 @@ https://review.lineageos.org/#/c/220034 # mtk flag
 
 https://review.lineageos.org/#/c/220285 # Disable fixed size
 
-https://review.lineageos.org/#/c/220286 # Disable dashboard icons and summaries
-
-https://review.lineageos.org/#/c/220287 # Change dashboard tile layout
-
 https://review.lineageos.org/#/c/220288 # zygote whitelist
 
 https://review.lineageos.org/#/c/220293 # Disable settings search bar
@@ -39,4 +35,4 @@ https://review.lineageos.org/#/c/220510 # DNM: support legacy mtk bt hals
 
 If building Lineage-15.1 here is a repo pick command to grab all of these
 
-repopick 220036 219443 220034 220285 220286 220287 220288 220293 220442 220506 220507 220508 220510
+repopick 220036 219443 220034 220285 220288 220293 220442 220506 220507 220508 220510
