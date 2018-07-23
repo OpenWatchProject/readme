@@ -41,3 +41,11 @@ List of confirmed working devices under the unity name (Probably more out there)
 * Kingwear KW06
 
 [Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/unity/twrp.md)
+
+# Build for Continuum
+
+List of confirmed working devices under the unity name (Probably more out there):
+* Lemfo Lem5 Pro
+* Finow X5 Air
+
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/continuum/twrp.md)
