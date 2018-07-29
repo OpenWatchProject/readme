@@ -25,6 +25,14 @@ List of confirmed working devices under the inharmony name (Probably more out th
 
 [Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/inharmony/twrp.md)
 
+# Build for AntiHarmony
+
+List of confirmed working devices under the antiharmony name (Probably more out there):
+* HEHUI variants of harmony
+* Microwear H2
+
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/antiharmony/twrp.md)
+
 # Build for Infinity
 
 List of confirmed working devices under the infinity name (Probably more out there):
@@ -44,8 +52,24 @@ List of confirmed working devices under the unity name (Probably more out there)
 
 # Build for Continuum
 
-List of confirmed working devices under the unity name (Probably more out there):
+List of confirmed working devices under the continuum name (Probably more out there):
 * Lemfo Lem5 Pro
 * Finow X5 Air
 
 [Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/continuum/twrp.md)
+
+# Build for Expanse
+
+List of confirmed working devices under the expanse name (Probably more out there):
+* Zeblaze Thor Pro
+
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/expanse/twrp.md)
+
+# Build for Wisp
+
+List of confirmed working devices under the wisp name (Probably more out there):
+* X02S MT6580
+* X01S Plus MT6580
+
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/wisp/twrp.md)
+
