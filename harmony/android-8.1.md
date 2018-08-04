@@ -33,6 +33,16 @@ https://review.lineageos.org/#/c/220508 # Support IOS BLE pairing
 
 https://review.lineageos.org/#/c/220510 # DNM: support legacy mtk bt hals
 
+https://review.lineageos.org/#/c/221654 # Disable restrictions on swipe to dismiss and ActionBars
+
+https://review.lineageos.org/#/c/222237 # DMN: Add back atomic symbols
+
+https://review.lineageos.org/221359 # LINEAGE ONLY?: lineageParts:Remove actionbar calls
+
+https://review.lineageos.org/#/c/222344 # Overlay LatinIME for round-watch
+
+https://review.lineageos.org/#/c/222346 # Overlay Calculator for round-watch
+
 If building Lineage-15.1 here is a repo pick command to grab all of these
 
-repopick 220036 219443 220034 220285 220288 220293 220442 220506 220507 220508 220510
+repopick 220036 219443 220034 220285 220288 220293 220442 220506 220507 220508 220510 221654 222237 221359 222344 222346
