@@ -7,6 +7,8 @@
   <project name="openwatchproject/android_device_mediatek_harmony" path="device/mediatek/harmony" remote="github" revision="android-8.1" />
   <project name="openwatchproject/android_kernel_mediatek_mt6580" path="kernel/mediatek/mt6580" remote="github" revision="android-8.1" />
   <project name="openwatchproject/android_vendor_mediatek_harmony" path="vendor/mediatek/harmony" remote="github" revision="android-8.1" />
+  <project name="openwatchproject/android_vendor_watch" path="vendor/watch" remote="github" revision="master" />
+  <project name="openwatchproject/android_packages_apps_WatchSettings" path="packages/apps/WatchSettings" remote="github" revision="lineage-15.1" />
 </manifest>
 ```
 
@@ -17,11 +19,7 @@ https://review.lineageos.org/#/c/219443 # earlysuspend
 
 https://review.lineageos.org/#/c/220034 # mtk flag
 
-https://review.lineageos.org/#/c/220285 # Disable fixed size
-
 https://review.lineageos.org/#/c/220288 # zygote whitelist
-
-https://review.lineageos.org/#/c/220293 # Disable settings search bar
 
 https://review.lineageos.org/#/c/220442 # Disable toolbar in settings
 
@@ -45,4 +43,4 @@ https://review.lineageos.org/#/c/222346 # Overlay Calculator for round-watch
 
 If building Lineage-15.1 here is a repo pick command to grab all of these
 
-repopick 220036 219443 220034 220285 220288 220293 220442 220506 220507 220508 220510 221654 222237 221359 222344 222346
+repopick 220036 219443 220034 220288 220293 220442 220506 220507 220508 220510 221654 222237 221359 222344 222346
