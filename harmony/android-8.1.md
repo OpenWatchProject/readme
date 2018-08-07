@@ -35,12 +35,15 @@ https://review.lineageos.org/#/c/221654 # Disable restrictions on swipe to dismi
 
 https://review.lineageos.org/#/c/222237 # DMN: Add back atomic symbols
 
-https://review.lineageos.org/221359 # LINEAGE ONLY?: lineageParts:Remove actionbar calls
+https://review.lineageos.org/#/c/221359 # LINEAGE ONLY?: lineageParts:Remove actionbar calls
 
 https://review.lineageos.org/#/c/222344 # Overlay LatinIME for round-watch
 
 https://review.lineageos.org/#/c/222346 # Overlay Calculator for round-watch
 
+https://review.lineageos.org/#/c/222493 # Overlay layouts for round-watch (DeskClock)
+
 If building Lineage-15.1 here is a repo pick command to grab all of these
 
-repopick 220036 219443 220034 220288 220293 220442 220506 220507 220508 220510 221654 222237 221359 222344 222346
+repopick 220036 219443 220034 220288 220442 220506 220507 220508 220510 221654 222237 221359 222344 222346 222493
+
