@@ -36,8 +36,10 @@ List of confirmed working devices under the antiharmony name (Probably more out 
 # Build for Infinity
 
 List of confirmed working devices under the infinity name (Probably more out there):
-* Lemfo Lem7
+* Lemfo LEM7
 * Zeblaze Thor 4
+* IQI I7
+* IQI I8
 
 [Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/infinity/twrp.md)
 
