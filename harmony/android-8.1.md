@@ -42,8 +42,13 @@ https://review.lineageos.org/#/c/222344 # Overlay LatinIME for round-watch
 https://review.lineageos.org/#/c/222346 # Overlay Calculator for round-watch
 
 https://review.lineageos.org/#/c/222493 # Overlay layouts for round-watch (DeskClock)
+https://review.lineageos.org/#/c/223332 # Update device default colors for darker UI
+
+https://review.lineageos.org/#/c/223333 # Set windowElevation to 0 on watch dialogs
+
+https://review.lineageos.org/#/c/223334 # Animation and style adjustments to make UI stutter go away
 
 If building Lineage-15.1 here is a repo pick command to grab all of these
 
-repopick 220036 219443 220034 220288 220442 220506 220507 220508 220510 221654 222237 221359 222344 222346 222493
+repopick 220036 219443 220034 220288 220442 220506 220507 220508 220510 221654 222237 221359 222344 222346 222493 223332 223333 223334
 
