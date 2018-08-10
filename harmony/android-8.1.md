@@ -42,6 +42,7 @@ https://review.lineageos.org/#/c/222344 # Overlay LatinIME for round-watch
 https://review.lineageos.org/#/c/222346 # Overlay Calculator for round-watch
 
 https://review.lineageos.org/#/c/222493 # Overlay layouts for round-watch (DeskClock)
+
 https://review.lineageos.org/#/c/223332 # Update device default colors for darker UI
 
 https://review.lineageos.org/#/c/223333 # Set windowElevation to 0 on watch dialogs
