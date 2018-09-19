@@ -45,6 +45,13 @@ List of confirmed working devices under the infinity name (Probably more out the
 
 [Build Android 7.1](https://github.com/OpenWatchProject/readme/blob/master/infinity/android-7.1.md)
 
+# Build for Edge
+
+List of confirmed working devices under the edge name (Probably more out there):
+* LEMFO LEMX
+
+[Build TWRP Recovery](https://github.com/OpenWatchProject/readme/blob/master/edge/twrp.md)
+
 # Build for Unity
 
 List of confirmed working devices under the unity name (Probably more out there):
