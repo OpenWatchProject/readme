@@ -1,6 +1,8 @@
 # Information on the Open Watch Project
 Project OpenWatch is the initiative undertaken by BLOCKS, who came into the limelight for their modular smartwatch. The goal of this initiative is to make a fully open source OS so any smartwatch that can have AOSP builds or be ported to AOSP can have a fully functional Watch OS.
 
+If you are building **LineageOS 14.1** on Ubuntu 18.04 LTS, run the following command: `export LC_ALL=C`
+
 Here is a link to see our current to-do, in progress, done list https://goo.gl/62UnLw
 
 # Build for Harmony
